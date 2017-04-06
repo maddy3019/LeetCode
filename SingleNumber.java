@@ -14,7 +14,7 @@ public class SingleNumber {
 			nums[i] = sc.nextInt();
 		}
 		int res = 0;
-		for (int i = 1; i < nums.length; i++) {
+		for (int i = 0; i < nums.length; i++) {
 			res ^= nums[i];
 		}
 		System.out.println(res);
