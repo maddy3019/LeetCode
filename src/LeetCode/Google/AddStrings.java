@@ -11,7 +11,7 @@
  * O/P: "35"
  */
 
-package LeetCode.Strings;
+package LeetCode.Google;
 
 public class AddStrings {
 

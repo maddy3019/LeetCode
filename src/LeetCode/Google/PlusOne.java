@@ -12,7 +12,7 @@
  * O/P: digits = [1, 0]
  */
 
-package LeetCode.Arrays;
+package LeetCode.Google;
 
 import java.util.ArrayList;
 import java.util.Arrays;
